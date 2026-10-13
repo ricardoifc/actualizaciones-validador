@@ -1,0 +1,32 @@
+{
+  "bundle": 1,
+  "components": [
+    {
+      "id": "pireader",
+      "package": "br.inf.planeta.pireader",
+      "versionCode": 4,
+      "versionName": "1.0.3",
+      "file": "planeta/PIReader-1.0.3-release.apk",
+      "size": 6981964,
+      "sha256": "11c592a315175ad8a2c54abb88b1ffb1e9d2b3b0549108d6500f437cc7e6dd4a"
+    },
+    {
+      "id": "aipa",
+      "package": "br.inf.planeta.aipa",
+      "versionCode": 411,
+      "versionName": "4.1.1_0.110.3",
+      "file": "planeta/aipa_daemon_4.1.1_0.110.3.apk",
+      "size": 10954321,
+      "sha256": "b0dd1faf66f8f77f7da7f05a838841c7b739b2030aee1bcf3924a0c4bba67460"
+    },
+    {
+      "id": "launcher",
+      "package": "com.clipp.launcher",
+      "versionCode": 2,
+      "versionName": "1.1",
+      "file": "launcher/launcher_clipp_desarrollo_v1_1.apk",
+      "size": 5676502,
+      "sha256": "0cbf7709a6e5fb92bdcf400d64c1e195af38fd69caf7f78ad3ff3b33c48c6072"
+    }
+  ]
+}
